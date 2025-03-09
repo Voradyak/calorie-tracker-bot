@@ -9,6 +9,4 @@ services:
         sync: false
       - key: FOOD_API_KEY
         sync: false
-      - key: WEBHOOK_URL
-        value: https://calorie-tracker-bot-v2.onrender.com/webhook
     autoDeploy: true 
